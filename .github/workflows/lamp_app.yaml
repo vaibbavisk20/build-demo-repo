@@ -1,9 +1,9 @@
 name:  Workflow to deploy LAMP stack on an App Service in Azure
 
 on:
-  push:
-    branches:
-      - main
+#   push:
+#     branches:
+#       - main
   pull_request:
     branches:
       - main
